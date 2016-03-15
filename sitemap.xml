@@ -41,4 +41,22 @@
         <lastmod>2016-03-06</lastmod>
     </url>
     
+<<<<<<< HEAD
+=======
+    <url>
+        <loc>http://vivekr.net/hello-world</loc>
+        <lastmod>2015-03-10</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://vivekr.net/typography</loc>
+        <lastmod>2015-01-01</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://vivekr.net/sample-page</loc>
+        <lastmod>2016-03-06</lastmod>
+    </url>
+    
+>>>>>>> f638cb465a5c65136b9971611d46373d840f38b8
 </urlset>
