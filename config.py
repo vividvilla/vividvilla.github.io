@@ -6,7 +6,7 @@ SITE = {
 	# Required settings
 
 	# Site title
-	'title': 'Your blog title',
+	'title': 'Unconventional thoughts',
 
 	# assets folder
 	'assets': '',
@@ -14,7 +14,7 @@ SITE = {
 	# Theme specific settings
 
 	# Site description
-	'description': 'Your blog description',
+	'description': 'Thoughts about programming and personal rants',
 
 	# Summary length, used by specific themes
 	'summary_offset': 180,
@@ -31,7 +31,7 @@ SITE = {
 
 	# Site author(s) name
 	# used in atom feeds and by themes
-	'author': ['Your name'],
+	'author': ['Vivek R'],
 
 	# Set default home page using page/post slug
 	# defaults to recent posts list
@@ -51,11 +51,11 @@ SITE = {
 	# Base domain to be used in xm sitemaps and feed urls
 	# Please add full url with http or https
 	# defaults to host name of the app("localhost")
-	'domain_url': 'http://vivek.github.io',
+	'domain_url': 'http://vivekr.net',
 
 	# Domain name to be used for Github pages
 	# If setting changed run "olaf cname" from site root directory to update CNAME file
-	'github_domain': 'vivek.github.io',
+	'github_domain': 'vivekr.net',
 
 	# Sites git url - required if  you are using git uploads commandline tool
 	# Try "olaf upload --help" from site root directory for more help
@@ -64,5 +64,4 @@ SITE = {
 	# Set syntax highlighting style (pygments styles)
 	# Try "olaf utils -p" to get list of inbuilt styles
 	'pygments_style': ''
-
 }
