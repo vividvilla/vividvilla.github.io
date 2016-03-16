@@ -3,42 +3,47 @@
     
     <url>
         <loc>http://vivekr.net/list/posts/</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
         <loc>http://vivekr.net/list/pages/</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
         <loc>http://vivekr.net/recent.atom</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
         <loc>http://vivekr.net/sitemap.xml</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
         <loc>http://vivekr.net/404.html</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
         <loc>http://vivekr.net/archive/</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
         <loc>http://vivekr.net/tags/</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
         <loc>http://vivekr.net/</loc>
-        <lastmod>2016-03-06</lastmod>
+        <lastmod>2016-03-07</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://vivekr.net/hello-world</loc>
+        <lastmod>2016-03-16</lastmod>
     </url>
     
 </urlset>
