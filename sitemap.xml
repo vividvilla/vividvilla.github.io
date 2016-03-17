@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://vivekr.net/list/posts/</loc>
+        <loc>https://vivekr.net/list/posts/</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/list/pages/</loc>
+        <loc>https://vivekr.net/list/pages/</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/recent.atom</loc>
+        <loc>https://vivekr.net/recent.atom</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/sitemap.xml</loc>
+        <loc>https://vivekr.net/sitemap.xml</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/404.html</loc>
+        <loc>https://vivekr.net/404.html</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/archive/</loc>
+        <loc>https://vivekr.net/archive/</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/tags/</loc>
+        <loc>https://vivekr.net/tags/</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/</loc>
+        <loc>https://vivekr.net/</loc>
         <lastmod>2016-03-07</lastmod>
     </url>
     
     <url>
-        <loc>http://vivekr.net/hello-world</loc>
+        <loc>https://vivekr.net/hello-world</loc>
         <lastmod>2016-03-16</lastmod>
     </url>
     

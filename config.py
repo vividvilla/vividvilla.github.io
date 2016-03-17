@@ -51,11 +51,12 @@ SITE = {
 	# Base domain to be used in xm sitemaps and feed urls
 	# Please add full url with http or https
 	# defaults to host name of the app("localhost")
-	'domain_url': 'http://vivekr.net',
+	'domain_url': 'https://vivekr.net',
 
-	# Domain name to be used for Github pages
-	# If setting changed run "olaf cname" from site root directory to update CNAME file
-	'github_domain': 'vivekr.net',
+	# enforce SSL
+	# if ssl enforced then canonical link will be added and users will redireced to ssl version of the site
+	# please make sure domain_url has https:// if its enabled
+	'enforce_ssl': True,
 
 	# Sites git url - required if  you are using git uploads commandline tool
 	# Try "olaf upload --help" from site root directory for more help
