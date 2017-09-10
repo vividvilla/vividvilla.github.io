@@ -1,5 +1,6 @@
 
 # Created by https://www.gitignore.io/api/python
+.DS_Store
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -87,4 +88,5 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+
 
