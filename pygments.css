@@ -9,10 +9,8 @@
 .codehilite .o { color: #ce5c00; font-weight: bold } /* Operator */
 .codehilite .x { color: #000000 } /* Other */
 .codehilite .p { color: #000000; font-weight: bold } /* Punctuation */
-.codehilite .ch { color: #8f5902; font-style: italic } /* Comment.Hashbang */
 .codehilite .cm { color: #8f5902; font-style: italic } /* Comment.Multiline */
 .codehilite .cp { color: #8f5902; font-style: italic } /* Comment.Preproc */
-.codehilite .cpf { color: #8f5902; font-style: italic } /* Comment.PreprocFile */
 .codehilite .c1 { color: #8f5902; font-style: italic } /* Comment.Single */
 .codehilite .cs { color: #8f5902; font-style: italic } /* Comment.Special */
 .codehilite .gd { color: #a40000 } /* Generic.Deleted */
